@@ -133,7 +133,7 @@ Displays relevance score, matched skills, missing skills, and candidate suitabil
 
 ## 4. Resume Section Analysis
 
-![Resume Sections](assets/show_resume_sections.png)
+![Resume Sections](assets/show_resume_section.png)
 
 Allows recruiters to inspect extracted resume sections for deeper analysis.
 
