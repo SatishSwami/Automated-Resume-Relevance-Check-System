@@ -308,8 +308,7 @@ https://github.com/SatishSwami/Automated-Resume-Relevance-Check-System
 
 ### Live Demo
 
-Add Streamlit deployment URL after deployment.
-
+https://automated-resume-relevance-check-system-4srqvoh7wkhxiybvfnkcgk.streamlit.app/
 ---
 
 # 👨‍💻 Author
