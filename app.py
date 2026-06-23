@@ -23,7 +23,7 @@ if "jd_texts" not in st.session_state:
 if "jd_names" not in st.session_state:
     st.session_state.jd_names = []
 
-st.title("🚀 Automated Resume Relevance Check — Final MVP")
+st.title("Automated Resume Relevance Check — Final MVP")
 
 # Sidebar
 st.sidebar.header("Settings")
