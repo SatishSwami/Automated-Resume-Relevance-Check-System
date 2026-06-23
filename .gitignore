@@ -1,0 +1,49 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE/editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit / local files
+temp/
+sample_data/
+*.log
+
+# Secrets / env
+.env
+.env.* 
+secrets.toml
+
+# Jupyter
+.ipynb_checkpoints
+
+# Databases / outputs
+*.sqlite3
+*.db
+*.db-journal
+
+# Model / large artifacts
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Misc
+*.zip
+*.tar.gz
